@@ -1,0 +1,119 @@
+
+.main-container{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 11px;
+    border: 1440px;
+    display: grid;
+    grid-template-columns: column;
+    color: Light grayish blue hsl(210, 46%, 95%);
+}
+.Daniel-div{
+    border:50px 75px;
+    margin:5px;
+    color: Moderate violet hsl(263, 55%, 52%);
+}
+.dan-img{
+ align-items: start;
+}
+.Dan-name{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    color: White hsl(0, 0%, 100%);
+}
+.Dan-talk{
+    text-align: center;
+    color: White hsl(0, 0%, 100%);
+}
+.Dan-talk2{
+    text-align: center;
+    color: White hsl(0, 0%, 100%);
+    opacity: 70px;
+}
+.jonathan-div{
+   border: 50px 50px;
+   color: Very dark grayish blue hsl(217, 19%, 35%);
+}
+.j-img{
+    align-items: start;
+}
+.j-name{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    color: White hsl(0, 0%, 100%);
+}
+.j-talk{
+    text-align: center;
+    color: White hsl(0, 0%, 100%);
+}
+.j-talk2{
+    text-align: center;
+    color: White hsl(0, 0%, 100%);
+    opacity: 70px;
+}
+.jean-div{
+   color: White hsl(0, 0%, 100%);
+   border: 50px 50px
+
+}
+.jean-img{
+    align-items: start;
+}
+.jean-name{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}.jean-talk{
+    text-align: center;
+
+}
+.jean-talk2{
+    text-align: center;
+    opacity: 70px;
+}
+.patrick-div{
+    border: 50px 75px;
+  color:  Very dark blackish blue hsl(219, 29%, 14%);
+}
+.pat-img{
+    align-items: start;
+}
+.pat-name{
+    text-align: center;
+    color: White hsl(0, 0%, 100%);
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+.pat-talk{
+    text-align: center;
+    color: White hsl(0, 0%, 100%);
+}
+.pat-talk2{
+    text-align: center;
+    color: White hsl(0, 0%, 100%);
+    opacity: 70px;
+}
+.kira-div{
+    border: 100px 50px;
+    color: White hsl(0, 0%, 100%);
+
+}
+.kira-img{
+align-items: start;
+}
+.kira-name{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+.kira-talk{
+    text-align: center;
+
+}
+.kira-talk2{
+    text-align: center;
+    opacity: 70px;
+}
